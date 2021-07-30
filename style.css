@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, violet);
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    height: 250px;
+    width: 300px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+#myname {
+    font-family: 'courgette', cursive;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
